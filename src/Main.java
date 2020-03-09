@@ -12,6 +12,7 @@ public class Main {
         String teamName = "Golden memers"; // FAKE UI INPUT
         String[] teamMembers = {"Ali","Mathias"}; // FAKE UI INPUT
         String teamName2 = "EZPZ";
+
         String[] teamMembers2 ={"Emil","Janus"};
         String teamName3 = "Ali er gud";
         String[] teamMember3={"Tess","Thor"};
